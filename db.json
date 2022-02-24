@@ -1,0 +1,138 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Bilgisayar",
+      "price": 2500,
+      "unitsInStock": 5,
+      "description": "Asus ZenBook",
+      "imageUrl": "https://images.unsplash.com/photo-1511385348-a52b4a160dc2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=782&q=80",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Bilgisayar",
+      "price": 2500,
+      "unitsInStock": 3,
+      "description": "Asus ZenBook",
+      "imageUrl": "https://images.unsplash.com/photo-1544006659-f0b21884ce1d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "Tablet Pc",
+      "price": 1500,
+      "unitsInStock": 7,
+      "description": "Samsung Galaxy X",
+      "imageUrl": "https://images.unsplash.com/photo-1521159311222-fcd72db9bd8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "categoryId": 2
+    },
+    {
+      "id": 4,
+      "name": "Tablet Pc",
+      "price": 1500,
+      "unitsInStock": 9,
+      "description": "Samsung Galaxy X",
+      "imageUrl": "https://images.unsplash.com/photo-1565221287653-9a2713dbe4ef?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+      "categoryId": 2
+    },
+    {
+      "id": 5,
+      "name": "Mouse",
+      "price": 25,
+      "unitsInStock": 11,
+      "description": "A4 Tech",
+      "imageUrl": "https://images.unsplash.com/photo-1586816879360-004f5b0c51e5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+      "categoryId": 3
+    },
+    {
+      "id": 6,
+      "name": "Mouse",
+      "price": 50,
+      "unitsInStock": 6,
+      "description": "A4 Tech",
+      "imageUrl": "https://images.unsplash.com/photo-1619334084350-b093f0a9b40e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "categoryId": 3
+    },
+    {
+      "id": 7,
+      "name": "Telefon",
+      "price": 2200,
+      "unitsInStock": 13,
+      "description": "Samsung GS",
+      "imageUrl": "https://images.unsplash.com/photo-1585060282215-39a72f82385c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNlbGwlMjBwaG9uZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "categoryId": 4
+    },
+    {
+      "id": 8,
+      "name": "Telefon",
+      "price": 2400,
+      "unitsInStock": 2,
+      "description": "LG",
+      "imageUrl": "https://images.unsplash.com/photo-1585060544812-6b45742d762f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNlbGwlMjBwaG9uZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "categoryId": 4
+    },
+    {
+      "id": 9,
+      "name": "Fotoğraf Makinesi",
+      "price": 1600,
+      "unitsInStock": 8,
+      "description": "Canon",
+      "imageUrl": "https://images.unsplash.com/photo-1613631883052-454579eb648f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2FtZXJhc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "categoryId": 5
+    },
+    {
+      "id": 10,
+      "name": "Fotoğraf Makinesi",
+      "price": 1650,
+      "unitsInStock": 4,
+      "description": "Sony",
+      "imageUrl": "https://images.unsplash.com/photo-1519638831568-d9897f54ed69?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Y2FtZXJhc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "categoryId": 5
+    },
+    {
+      "id": 11,
+      "name": "Tripot",
+      "price": 125,
+      "unitsInStock": 15,
+      "description": "Slik",
+      "imageUrl": "https://images.unsplash.com/photo-1573385233252-2293057a4e3c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fHRyaXBvZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "categoryId": 6
+    },
+    {
+      "id": 12,
+      "name": "Tripot",
+      "price": 145,
+      "unitsInStock": 18,
+      "description": "Digipod",
+      "imageUrl": "https://images.unsplash.com/photo-1540945573388-fb1aa7ecb444?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fHRyaXBvZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "categoryId": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bilgisayar"
+    },
+    {
+      "id": 2,
+      "name": "Tablet"
+    },
+    {
+      "id": 3,
+      "name": "Mouse"
+    },
+    {
+      "id": 4,
+      "name": "Telefon"
+    },
+    {
+      "id": 5,
+      "name": "Fotoğraf Makinesi"
+    },
+    {
+      "id": 6,
+      "name": "Tripot"
+    }
+  ]
+}
